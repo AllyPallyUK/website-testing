@@ -1,12 +1,10 @@
 # Welcome To Alex's Website!
 
-Here you can find Pre-Release solutions I have come up with!
+Here you can find absolutely nothing!
 
-There are also a few fun guides to help learn about things like functions.
+There are also a few fun guides to help learn about nothing.
 
-So by all means scroll through and enjoy ^u^
-
-
+So by all means scroll through and enjoy nothing ^u^
 
 
 
@@ -32,4 +30,6 @@ So by all means scroll through and enjoy ^u^
 
 
 
-Pre-Releases are a nightmare. Why.
+
+
+My favourite pre-release? Aw thanks for asking, it's nothing.
