@@ -8,3 +8,7 @@ Which numbers would you like to add?
 
 <input type="Number 1" id="num1" name="num1name"/>
 <input type="Number 2" id="num2" name="num2name"/>
+
+The answer is <output num1 + num2/>
+
+
